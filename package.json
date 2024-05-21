@@ -1,0 +1,11 @@
+{
+  "name": "@chenbo-ies/package-sample2",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "chenbo",
+  "license": "ISC"
+}
